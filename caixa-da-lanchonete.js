@@ -65,7 +65,7 @@ const cardapio = {
         total *= 1.03;
       }
   
-      return total;
+      return 'R$: ', total;
     }
     
   }
